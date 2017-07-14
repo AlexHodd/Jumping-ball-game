@@ -1,0 +1,1015 @@
+# depslib dependency file v1.0
+1385312859 source:c:\temp\inod\engine_simple_explosion\bullet.cpp
+	<windows.h>
+	"Bullet.h"
+	"ResourceFactory.h"
+	"Explosion.h"
+	"Terrain.h"
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1385305484 c:\temp\inod\engine_simple_explosion\bullet.h
+	"Entity.h"
+
+1385304643 c:\temp\inod\engine_simple_explosion\entity.h
+	"ComponentManager.h"
+	"Sprite.h"
+
+1384673282 c:\temp\inod\engine_simple_explosion\componentmanager.h
+	<iostream>
+	<list>
+
+1384673282 c:\temp\inod\engine_simple_explosion\sprite.h
+	"float2.hpp"
+
+1384673282 c:\temp\inod\engine_simple_explosion\float2.hpp
+	<math.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1384673282 c:\temp\inod\engine_simple_explosion\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1384673282 c:\temp\inod\engine_simple_explosion\texture2d.h
+
+1382646374 c:\temp\inod\engine_simple_explosion\explosion.h
+	"Entity.h"
+
+1385306843 source:c:\temp\inod\engine_simple_explosion\bunker.cpp
+	<stdlib.h>
+	"Bunker.h"
+	"Enemy.h"
+	"ResourceFactory.h"
+	"Bullet.h"
+
+1384682386 c:\temp\inod\engine_simple_explosion\bunker.h
+	"Entity.h"
+
+1384680416 c:\temp\inod\engine_simple_explosion\enemy.h
+	"Tank.h"
+
+1384677440 c:\temp\inod\engine_simple_explosion\tank.h
+	"Entity.h"
+
+1384674896 source:c:\temp\inod\engine_simple_explosion\componentmanager.cpp
+	"ComponentManager.h"
+
+1385312451 source:c:\temp\inod\engine_simple_explosion\enemy.cpp
+	<stdlib.h>
+	"Enemy.h"
+	"Bunker.h"
+	"Bullet.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+
+1384959842 source:c:\temp\inod\engine_simple_explosion\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1383136868 source:c:\temp\inod\engine_simple_explosion\explosion.cpp
+	<windows.h>
+	"Explosion.h"
+
+1384673282 source:c:\temp\inod\engine_simple_explosion\keyboard.cpp
+	"Keyboard.h"
+
+1384673282 c:\temp\inod\engine_simple_explosion\keyboard.h
+
+1385314848 source:c:\temp\inod\engine_simple_explosion\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	"Sprite.h"
+	"ResourceFactory.h"
+	"ComponentManager.h"
+	"Keyboard.h"
+	"Player.h"
+	"Bunker.h"
+	"Terrain.h"
+	"Enemy.h"
+
+1381423470 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1384684590 c:\temp\inod\engine_simple_explosion\player.h
+	"Tank.h"
+
+1385312688 source:c:\temp\inod\engine_simple_explosion\player.cpp
+	<stdlib.h>
+	"Player.h"
+	"Keyboard.h"
+	"Bullet.h"
+	"ResourceFactory.h"
+	"Bunker.h"
+	"Terrain.h"
+
+1384674190 source:c:\temp\inod\engine_simple_explosion\resourcefactory.cpp
+	<iostream>
+	"ResourceFactory.h"
+
+1384673282 source:c:\temp\inod\engine_simple_explosion\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1384677514 source:c:\temp\inod\engine_simple_explosion\tank.cpp
+	"Tank.h"
+
+1384673282 source:c:\temp\inod\engine_simple_explosion\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1385311553 source:c:\temp\inod\engine_simple_explosion\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"ResourceFactory.h"
+	"Player.h"
+	"Bunker.h"
+
+1385308294 c:\temp\inod\engine_simple_explosion\terrain.h
+	"Sprite.h"
+
+1385907601 source:c:\temp\inod\engine_riverraid\bullet.cpp
+	<windows.h>
+	"Bullet.h"
+	"ResourceFactory.h"
+	"Explosion.h"
+	"Terrain.h"
+
+1385907364 c:\temp\inod\engine_riverraid\bullet.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\engine_riverraid\entity.h
+	"ComponentManager.h"
+	"Sprite.h"
+
+1385907364 c:\temp\inod\engine_riverraid\componentmanager.h
+	<iostream>
+	<list>
+
+1385907364 c:\temp\inod\engine_riverraid\sprite.h
+	"float2.hpp"
+
+1385907364 c:\temp\inod\engine_riverraid\float2.hpp
+	<math.h>
+
+1385907364 c:\temp\inod\engine_riverraid\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1385907364 c:\temp\inod\engine_riverraid\texture2d.h
+
+1385907364 c:\temp\inod\engine_riverraid\explosion.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\engine_riverraid\terrain.h
+	"Sprite.h"
+
+1385306843 source:c:\temp\inod\engine_riverraid\bunker.cpp
+	<stdlib.h>
+	"Bunker.h"
+	"Enemy.h"
+	"ResourceFactory.h"
+	"Bullet.h"
+
+1385907364 c:\temp\inod\engine_riverraid\bunker.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\engine_riverraid\enemy.h
+	"Tank.h"
+
+1385907364 c:\temp\inod\engine_riverraid\tank.h
+	"Entity.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\componentmanager.cpp
+	"ComponentManager.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\enemy.cpp
+	<stdlib.h>
+	"Enemy.h"
+	"Bunker.h"
+	"Bullet.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\explosion.cpp
+	<windows.h>
+	"Explosion.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\keyboard.cpp
+	"Keyboard.h"
+
+1385907364 c:\temp\inod\engine_riverraid\keyboard.h
+
+1385908657 source:c:\temp\inod\engine_riverraid\player.cpp
+	<stdlib.h>
+	<iostream>
+	"Player.h"
+	"Keyboard.h"
+	"Bullet.h"
+	"ResourceFactory.h"
+	"Enemy.h"
+	"Terrain.h"
+	"Bridge.h"
+	"Fuel.h"
+
+1385907364 c:\temp\inod\engine_riverraid\player.h
+	"Tank.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\resourcefactory.cpp
+	<iostream>
+	"ResourceFactory.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\tank.cpp
+	"Tank.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"ResourceFactory.h"
+	"Player.h"
+	"Bunker.h"
+	"Enemy.h"
+	"Fuel.h"
+	"Bridge.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1385908094 source:c:\temp\inod\engine_riverraid\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	"Sprite.h"
+	"ResourceFactory.h"
+	"ComponentManager.h"
+	"Keyboard.h"
+	"Player.h"
+	"Bunker.h"
+	"Terrain.h"
+	"Enemy.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\fuel.cpp
+	"Fuel.h"
+	"Bullet.h"
+
+1385907364 c:\temp\inod\engine_riverraid\fuel.h
+	"Entity.h"
+
+1385907364 source:c:\temp\inod\engine_riverraid\bridge.cpp
+	"Bridge.h"
+	"Bullet.h"
+
+1385907364 c:\temp\inod\engine_riverraid\bridge.h
+	"Entity.h"
+
+1385907364 source:c:\temp\inod\engine_mario\componentmanager.cpp
+	"ComponentManager.h"
+
+1385907364 c:\temp\inod\engine_mario\componentmanager.h
+	<iostream>
+	<list>
+
+1385907364 source:c:\temp\inod\engine_mario\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1385907364 c:\temp\inod\engine_mario\entity.h
+	"ComponentManager.h"
+	"Sprite.h"
+
+1385907364 c:\temp\inod\engine_mario\sprite.h
+	"float2.hpp"
+
+1385907364 c:\temp\inod\engine_mario\float2.hpp
+	<math.h>
+
+1385907364 source:c:\temp\inod\engine_mario\keyboard.cpp
+	"Keyboard.h"
+
+1385907364 c:\temp\inod\engine_mario\keyboard.h
+
+1385908094 source:c:\temp\inod\engine_mario\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	"Sprite.h"
+	"ResourceFactory.h"
+	"ComponentManager.h"
+	"Keyboard.h"
+	"Player.h"
+	"Bunker.h"
+	"Terrain.h"
+	"Enemy.h"
+
+1385907364 c:\temp\inod\engine_mario\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1385907364 c:\temp\inod\engine_mario\texture2d.h
+
+1385913962 c:\temp\inod\engine_mario\player.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\engine_mario\tank.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\engine_mario\bunker.h
+	"Entity.h"
+
+1385911998 c:\temp\inod\engine_mario\terrain.h
+	<vector>
+	"Sprite.h"
+
+1385907364 c:\temp\inod\engine_mario\enemy.h
+	"Tank.h"
+
+1385917457 source:c:\temp\inod\engine_mario\player.cpp
+	<stdlib.h>
+	<iostream>
+	"Player.h"
+	"Keyboard.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Coin.h"
+
+1385907364 c:\temp\inod\engine_mario\bullet.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\engine_mario\bridge.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\engine_mario\fuel.h
+	"Entity.h"
+
+1385907364 source:c:\temp\inod\engine_mario\resourcefactory.cpp
+	<iostream>
+	"ResourceFactory.h"
+
+1385907364 source:c:\temp\inod\engine_mario\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1385907364 source:c:\temp\inod\engine_mario\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1385917296 source:c:\temp\inod\engine_mario\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Player.h"
+	"Coin.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1385916484 source:c:\temp\inod\engine_mario\goomba.cpp
+	"Goomba.h"
+	"Terrain.h"
+
+1385915720 c:\temp\inod\engine_mario\goomba.h
+	"Entity.h"
+
+1385917230 source:c:\temp\inod\engine_mario\coin.cpp
+	"Coin.h"
+
+1385917156 c:\temp\inod\engine_mario\coin.h
+	"Entity.h"
+
+1385917230 source:c:\temp\inod\2013_1\engine_mario\coin.cpp
+	"Coin.h"
+
+1385917156 c:\temp\inod\2013_1\engine_mario\coin.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\2013_1\engine_mario\entity.h
+	"ComponentManager.h"
+	"Sprite.h"
+
+1385907364 c:\temp\inod\2013_1\engine_mario\componentmanager.h
+	<iostream>
+	<list>
+
+1385907364 c:\temp\inod\2013_1\engine_mario\sprite.h
+	"float2.hpp"
+
+1385907364 c:\temp\inod\2013_1\engine_mario\float2.hpp
+	<math.h>
+
+1385907364 source:c:\temp\inod\2013_1\engine_mario\componentmanager.cpp
+	"ComponentManager.h"
+
+1385907364 source:c:\temp\inod\2013_1\engine_mario\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1385916484 source:c:\temp\inod\2013_1\engine_mario\goomba.cpp
+	"Goomba.h"
+	"Terrain.h"
+
+1385915720 c:\temp\inod\2013_1\engine_mario\goomba.h
+	"Entity.h"
+
+1385911998 c:\temp\inod\2013_1\engine_mario\terrain.h
+	<vector>
+	"Sprite.h"
+
+1385907364 source:c:\temp\inod\2013_1\engine_mario\keyboard.cpp
+	"Keyboard.h"
+
+1385907364 c:\temp\inod\2013_1\engine_mario\keyboard.h
+
+1385917526 source:c:\temp\inod\2013_1\engine_mario\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	<iostream>
+	"Sprite.h"
+	"ResourceFactory.h"
+	"ComponentManager.h"
+	"Keyboard.h"
+	"Player.h"
+	"Bunker.h"
+	"Terrain.h"
+	"Enemy.h"
+	"Coin.h"
+
+1385907364 c:\temp\inod\2013_1\engine_mario\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1385907364 c:\temp\inod\2013_1\engine_mario\texture2d.h
+
+1385913962 c:\temp\inod\2013_1\engine_mario\player.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\2013_1\engine_mario\bunker.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\2013_1\engine_mario\enemy.h
+	"Tank.h"
+
+1385907364 c:\temp\inod\2013_1\engine_mario\tank.h
+	"Entity.h"
+
+1418902337 source:c:\temp\inod\2013_1\engine_mario\player.cpp
+	<stdlib.h>
+	<iostream>
+	"Player.h"
+	"Keyboard.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Coin.h"
+
+1385907364 source:c:\temp\inod\2013_1\engine_mario\resourcefactory.cpp
+	<iostream>
+	"ResourceFactory.h"
+
+1385907364 source:c:\temp\inod\2013_1\engine_mario\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1385917296 source:c:\temp\inod\2013_1\engine_mario\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Player.h"
+	"Coin.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1385907364 source:c:\temp\inod\2013_1\engine_mario\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1385917230 source:c:\temp\inod\2013_1\mario_st_141218\coin.cpp
+	"Coin.h"
+
+1385917156 c:\temp\inod\2013_1\mario_st_141218\coin.h
+	"Entity.h"
+
+1385907364 c:\temp\inod\2013_1\mario_st_141218\entity.h
+	"ComponentManager.h"
+	"Sprite.h"
+
+1385907364 c:\temp\inod\2013_1\mario_st_141218\componentmanager.h
+	<iostream>
+	<list>
+
+1385907364 c:\temp\inod\2013_1\mario_st_141218\sprite.h
+	"float2.hpp"
+
+1385907364 c:\temp\inod\2013_1\mario_st_141218\float2.hpp
+	<math.h>
+
+1385907364 source:c:\temp\inod\2013_1\mario_st_141218\componentmanager.cpp
+	"ComponentManager.h"
+
+1385907364 source:c:\temp\inod\2013_1\mario_st_141218\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1418902443 source:c:\temp\inod\2013_1\mario_st_141218\goomba.cpp
+	"Goomba.h"
+	"Terrain.h"
+
+1385915720 c:\temp\inod\2013_1\mario_st_141218\goomba.h
+	"Entity.h"
+
+1385911998 c:\temp\inod\2013_1\mario_st_141218\terrain.h
+	<vector>
+	"Sprite.h"
+
+1385907364 source:c:\temp\inod\2013_1\mario_st_141218\keyboard.cpp
+	"Keyboard.h"
+
+1385907364 c:\temp\inod\2013_1\mario_st_141218\keyboard.h
+
+1385917232 source:c:\users\seturo\desktop\bounce\kod\coin.cpp
+	"Coin.h"
+
+1385917158 c:\users\seturo\desktop\bounce\kod\coin.h
+	"Entity.h"
+
+1385907366 c:\users\seturo\desktop\bounce\kod\entity.h
+	"ComponentManager.h"
+	"Sprite.h"
+
+1385907366 c:\users\seturo\desktop\bounce\kod\componentmanager.h
+	<iostream>
+	<list>
+
+1385907366 c:\users\seturo\desktop\bounce\kod\sprite.h
+	"float2.hpp"
+
+1385907366 c:\users\seturo\desktop\bounce\kod\float2.hpp
+	<math.h>
+
+1385907366 source:c:\users\seturo\desktop\bounce\kod\componentmanager.cpp
+	"ComponentManager.h"
+
+1385907366 source:c:\users\seturo\desktop\bounce\kod\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1421844548 source:c:\users\seturo\desktop\bounce\kod\goomba.cpp
+	"Goomba.h"
+	"Terrain.h"
+
+1385915722 c:\users\seturo\desktop\bounce\kod\goomba.h
+	"Entity.h"
+
+1385912000 c:\users\seturo\desktop\bounce\kod\terrain.h
+	<vector>
+	"Sprite.h"
+
+1385907366 source:c:\users\seturo\desktop\bounce\kod\keyboard.cpp
+	"Keyboard.h"
+
+1385907366 c:\users\seturo\desktop\bounce\kod\keyboard.h
+
+1421782995 source:c:\users\seturo\desktop\bounce\kod\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	"bass.h"
+	<iostream>
+	"Sprite.h"
+	"ResourceFactory.h"
+	"ComponentManager.h"
+	"Keyboard.h"
+	"Player.h"
+	"Terrain.h"
+	"Coin.h"
+
+1421012714 c:\users\seturo\desktop\bounce\kod\bass.h
+	<wtypes.h>
+	<stdint.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1385907366 c:\users\seturo\desktop\bounce\kod\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1385907366 c:\users\seturo\desktop\bounce\kod\texture2d.h
+
+1421782852 c:\users\seturo\desktop\bounce\kod\player.h
+	"Entity.h"
+	"bass.h"
+
+1385907366 source:c:\users\seturo\desktop\bounce\kod\resourcefactory.cpp
+	<iostream>
+	"ResourceFactory.h"
+
+1385907366 source:c:\users\seturo\desktop\bounce\kod\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1421848534 source:c:\users\seturo\desktop\bounce\kod\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Player.h"
+	"Coin.h"
+	"przepasc.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1385907366 source:c:\users\seturo\desktop\bounce\kod\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
+1421848949 source:c:\users\seturo\desktop\bounce\kod\player.cpp
+	<stdlib.h>
+	<iostream>
+	"Player.h"
+	"Keyboard.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Coin.h"
+	"przepasc.h"
+	"bass.h"
+
+1421848078 source:c:\users\seturo\desktop\bounce\kod\przepasc.cpp
+	"przepasc.h"
+
+1421847993 c:\users\seturo\desktop\bounce\kod\przepasc.h
+	"Entity.h"
+
+1385917232 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\coin.cpp
+	"Coin.h"
+
+1385917158 c:\users\alexander\desktop\gra\bounce\bounce\kod\coin.h
+	"Entity.h"
+
+1385907366 c:\users\alexander\desktop\gra\bounce\bounce\kod\entity.h
+	"ComponentManager.h"
+	"Sprite.h"
+
+1385907366 c:\users\alexander\desktop\gra\bounce\bounce\kod\componentmanager.h
+	<iostream>
+	<list>
+
+1385907366 c:\users\alexander\desktop\gra\bounce\bounce\kod\sprite.h
+	"float2.hpp"
+
+1385907366 c:\users\alexander\desktop\gra\bounce\bounce\kod\float2.hpp
+	<math.h>
+
+1385907366 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\componentmanager.cpp
+	"ComponentManager.h"
+
+1385907366 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\entity.cpp
+	<iostream>
+	"Entity.h"
+
+1421844548 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\goomba.cpp
+	"Goomba.h"
+	"Terrain.h"
+
+1385915722 c:\users\alexander\desktop\gra\bounce\bounce\kod\goomba.h
+	"Entity.h"
+
+1385912000 c:\users\alexander\desktop\gra\bounce\bounce\kod\terrain.h
+	<vector>
+	"Sprite.h"
+
+1385907366 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\keyboard.cpp
+	"Keyboard.h"
+
+1385907366 c:\users\alexander\desktop\gra\bounce\bounce\kod\keyboard.h
+
+1421782995 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\main.cpp
+	<windows.h>
+	<gl/glut.h>
+	"bass.h"
+	<iostream>
+	"Sprite.h"
+	"ResourceFactory.h"
+	"ComponentManager.h"
+	"Keyboard.h"
+	"Player.h"
+	"Terrain.h"
+	"Coin.h"
+
+1421012714 c:\users\alexander\desktop\gra\bounce\bounce\kod\bass.h
+	<wtypes.h>
+	<stdint.h>
+
+1385907366 c:\users\alexander\desktop\gra\bounce\bounce\kod\resourcefactory.h
+	<map>
+	"Texture2D.h"
+
+1385907366 c:\users\alexander\desktop\gra\bounce\bounce\kod\texture2d.h
+
+1421782852 c:\users\alexander\desktop\gra\bounce\bounce\kod\player.h
+	"Entity.h"
+	"bass.h"
+
+1421848949 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\player.cpp
+	<stdlib.h>
+	<iostream>
+	"Player.h"
+	"Keyboard.h"
+	"ResourceFactory.h"
+	"Terrain.h"
+	"Goomba.h"
+	"Coin.h"
+	"przepasc.h"
+	"bass.h"
+
+1421847993 c:\users\alexander\desktop\gra\bounce\bounce\kod\przepasc.h
+	"Entity.h"
+
+1421848078 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\przepasc.cpp
+	"przepasc.h"
+
+1385907366 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\resourcefactory.cpp
+	<iostream>
+	"ResourceFactory.h"
+
+1385907366 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\sprite.cpp
+	<windows.h>
+	<gl/gl.h>
+	"Sprite.h"
+	"Texture2D.h"
+
+1421848534 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\terrain.cpp
+	"Terrain.h"
+	<windows.h>
+	<gl/gl.h>
+	<fstream>
+	<iostream>
+	"Player.h"
+	"Coin.h"
+	"przepasc.h"
+	"Goomba.h"
+	"ResourceFactory.h"
+
+1385907366 source:c:\users\alexander\desktop\gra\bounce\bounce\kod\texture2d.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fstream>
+	"Texture2D.h"
+
